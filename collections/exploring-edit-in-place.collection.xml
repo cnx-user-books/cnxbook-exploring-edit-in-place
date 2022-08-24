@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Wen Hol">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10239</md:content-id>
     <md:title>Exploring Edit in Place</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/1.0">Creative Commons Attribution License</md:license>
     <md:uuid>3baa3eb8-c374-463c-878a-246ed3c6d44c</md:uuid>
-<md:slug>exploring-edit-in-place</md:slug>
-</metadata>
+    <md:slug>exploring-edit-in-place</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>section1</md:title>
